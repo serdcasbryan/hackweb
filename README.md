@@ -4,4 +4,6 @@ Laboratorio de cambio de archivo index / utilizar el modo root
 2. apt install git
 3. git clone https://github.com/serdcasbryan/hackweb
 4. cd hackweb
-5. python2 tebas.py
+5. cp script.txt index.html
+6. python2 tebas.py
+7. index.html
