@@ -32,9 +32,9 @@ banner = """
                 :MMMMMMMMMMMMMMMM:                
                 `:+syhdmmmmdhys+:`
             MASS DEFACE + WEBDAV 2019
-            Nick : Infected_AOFSFOF
-            Wa : 089677556385
-            IG : @Infected_aofsfof
+            Nick : serdcasbryan
+            Wa : +51 993858224
+            IG : @BryanBamberger
 
 """
 
